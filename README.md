@@ -1,11 +1,11 @@
 # vityarthi-project-credit-card-fraud-detection
 
 
-## Introduction
+## INTRODUCTION
 
 This project is a simple and straightforward Python tool for credit card fraud detection based on a set of rules. It demonstrates how a system can be designed easily to check and flag potential fraud based on logical indicators. It is a learning tool which can demonstrates the basics of how a fraud detection system works and to solve real life problem.
 
-## What this project does
+## WHAT THIS PROJECT DOES
 
 - It processes credit card transactions based on a set of rules
 - It provides a risk score for each transaction
@@ -13,7 +13,7 @@ This project is a simple and straightforward Python tool for credit card fraud d
 - It is intended to help users understand the logic of fraud detection
 - It offers a simple and clear implementation of a Python tool that can be customized and used appropriately.
 
-## How the system works
+## HOW THE SYSTEM WORKS
 
 The system takes transaction details on:
 - Amount
@@ -35,7 +35,7 @@ The system takes transaction details on:
 - Fraudulent (high risk)
 
 
- ## How to set it up
+ ## HOW TO SET IT UP
 
 ### Step 1: Confirm Python is installed in your system
 
@@ -57,7 +57,7 @@ Alternatively, you can also download a ZIP file from the repository.
 Then run the program.
 
 
-## Customizing the project if needed
+## CUSTOMIZING THE PROJECT
 
 The system also offers several choices for customization:
 ### Change the risky rules
@@ -78,17 +78,17 @@ The system also offers several choices for customization:
     - Visualization Tool
 
 
-## Limitations
+## LIMITATIONS
 - The system is based on a non-adaptive and simple rule-based system.
 - The system is not suitable for real-time processing.
 - The system cannot learn from past experiences.
   
 
-## Learning Outcomes
+## LEARNING OUTCOMES
 
 By working on this project, you will gain a clear and proper understanding of how fraud detection systems can be built using basic programming concepts. You will also learn about conditional logic, risk scoring, and how different factors influence decision-making in real-world systems and problem solving.
 
-## Contributing 
+## CONTRIBUTING
 
 Here's how you can contribute:
 
