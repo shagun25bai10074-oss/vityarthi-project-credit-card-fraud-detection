@@ -32,3 +32,30 @@ The system takes transaction details on:
 - Normal (low risk)
 - Suspicious (medium risk)
 - Fraudulent (high risk)
+
+- ## How to set up
+
+### Step 1: Confirm Python is installed
+
+To ensure that Python 3.x is installed on your device, type the following command:
+```bash
+python --version
+```
+If Python is not installed on your device, please download it from:
+https://www.python.org/
+
+### Step 2: Clone the code
+
+To clone the code repository:
+
+git clone https://github.com/your-username/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+```
+Alternatively, you can also download a ZIP file from the repository.
+
+### Step 3: Run the program
+
+To run the program:
+```bash
+python fraud_detection.py
+```
