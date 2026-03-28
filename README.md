@@ -44,7 +44,7 @@ python --version
 If Python is not installed on your device, please download it from:
 https://www.python.org/
 
-### Step 2: Clone the code
+### Step 2: Clone the code and run the program
 
 To clone the code repository:
 
@@ -52,10 +52,5 @@ git clone https://github.com/your-username/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 Alternatively, you can also download a ZIP file from the repository.
+Then run the program.
 
-### Step 3: Run the program
-
-To run the program:
-```bash
-python fraud_detection.py
-```
