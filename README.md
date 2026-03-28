@@ -92,15 +92,15 @@ By working on this project, you will gain a clear and proper understanding of ho
 
 Here's how you can contribute:
 
-Improve the detection logic
-Add new features
-Optimize the code
+-Improve the detection logic
+-Add new features
+-Optimize the code
 
 ### Steps:
 
-Fork the repository
-Create a new branch
-Make your changes
-Submit a pull request
+-Fork the repository
+-Create a new branch
+-Make your changes
+-Submit a pull request
 
 
